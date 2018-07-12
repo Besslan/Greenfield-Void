@@ -49,10 +49,10 @@ You can manually download the latest release [here](https://github.com/RBK4-Void
 
 ## Authors
 
-* **Alaa** - [Alaaaa](https://github.com/alaamigdady) :neutral_face:
-* **Ameira** - [Princess](https://github.com/AmeiraHassoun) :hatching_chick:
-* **Besslan** - [Bees](https://github.com/Besslan) :neckbeard:
-* **Hussein** - [Huss](https://github.com/htirawi) :sunglasses:
+* **Alaa**
+* **Ameira** 
+* **Besslan** 
+* **Hussein** 
 
 
 ## License
