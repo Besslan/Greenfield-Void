@@ -1,31 +1,60 @@
-# Greenfield-Void
+# :bowtie: Chat Buddy :bowtie:
 
-ChatBuddy is an instant chatting application with video chat 
+[chat buddy](https://rbkvoidchat.herokuapp.com/) it is a MEAN stack application to make chatting life easier.
 
-dependinses :
-1-you must have mongodb
-2-node js
+## Prerequisites
+
+* [Node.js](https://nodejs.org/en/)
+* [mongoDB](https://www.mongodb.com/download-center)
+* [Angular](https://angular.io/)
+* [Express](https://expressjs.com/)
 
 
-How to run it : 
-1- clone the repo
-2-Enter it and open the terminal 
-3-type npm install and wait till its done 
-4-cd server 
-5-nodemon index.js 
-6-Open browser and enter localhost/3000
+## 💾 Install
 
-Technologies that we used :
-1-angular js
-2-node express
-3-mongoose 
-4-socket.io
-5-webRTC
+- Open Terminal
 
-things you can do :
-1-instant chatting 
-2-creating and joning rooms which are protected with passwords
-3-adding friends 
-4-groub chat or 1 on 1 
-5-video call 
+ ```sh
+git clone https://github.com/Besslan/Greenfield-Void
+```
+ ```sh
+cd Greenfield-Void
+```
 
+### using npm
+```sh
+npm install
+```
+
+```sh
+cd server
+```
+
+```sh
+node index.js
+```
+
+## Download
+
+You can manually download the latest release [here](https://github.com/RBK4-Void/Greenfield-Void.git).
+
+## Technologies
+
+- angular js
+- node express
+- mongoose 
+- socket.io
+- webRTC
+
+
+## Authors
+
+* **Alaa** - [Alaaaa](https://github.com/alaamigdady) :neutral_face:
+* **Ameira** - [Princess](https://github.com/AmeiraHassoun) :hatching_chick:
+* **Besslan** - [Bees](https://github.com/Besslan) :neckbeard:
+* **Hussein** - [Huss](https://github.com/htirawi) :sunglasses:
+
+
+## License
+
+This project is licensed under the RBK License - see the [RBK](https://rbk.org/) for details.
